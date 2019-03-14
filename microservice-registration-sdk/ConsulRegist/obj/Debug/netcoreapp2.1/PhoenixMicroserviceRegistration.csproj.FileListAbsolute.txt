@@ -1,0 +1,9 @@
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\bin\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.deps.json
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\bin\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.dll
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.csproj.CoreCompileInputs.cache
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.AssemblyInfoInputs.cache
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.AssemblyInfo.cs
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\bin\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.pdb
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.dll
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.pdb
+E:\NewvPhoenixProject\phoenix-microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\PhoenixMicroserviceRegistration.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\bin\Debug\netcoreapp2.1\MicroserviceRegistration.deps.json
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\bin\Debug\netcoreapp2.1\MicroserviceRegistration.dll
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\bin\Debug\netcoreapp2.1\MicroserviceRegistration.pdb
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.csproj.CoreCompileInputs.cache
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.AssemblyInfoInputs.cache
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.AssemblyInfo.cs
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.dll
+D:\个人作品\Microservice-registration-sdk\phoenix-microservice-registration-sdk\PhoenixConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.pdb
+D:\个人作品\microservice-registration-sdk\ConsulRegist\bin\Debug\netcoreapp2.1\MicroserviceRegistration.deps.json
+D:\个人作品\microservice-registration-sdk\ConsulRegist\bin\Debug\netcoreapp2.1\MicroserviceRegistration.dll
+D:\个人作品\microservice-registration-sdk\ConsulRegist\bin\Debug\netcoreapp2.1\MicroserviceRegistration.pdb
+D:\个人作品\microservice-registration-sdk\ConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.csprojAssemblyReference.cache
+D:\个人作品\microservice-registration-sdk\ConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.csproj.CoreCompileInputs.cache
+D:\个人作品\microservice-registration-sdk\ConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.AssemblyInfoInputs.cache
+D:\个人作品\microservice-registration-sdk\ConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.AssemblyInfo.cs
+D:\个人作品\microservice-registration-sdk\ConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.dll
+D:\个人作品\microservice-registration-sdk\ConsulRegist\obj\Debug\netcoreapp2.1\MicroserviceRegistration.pdb
