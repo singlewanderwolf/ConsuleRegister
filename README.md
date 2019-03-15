@@ -1,7 +1,7 @@
-﻿# ConsuleRegister
-##description
+# ConsuleRegister
+## description
 this  is a simple SDK for register services into consule
-##sample
+## sample
 ```
  public void ConfigureServices(IServiceCollection services)
     {
